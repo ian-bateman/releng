@@ -1,3 +1,5 @@
+DEPRECATED - we're not using catalyst, but we'll leave this here for now
+
 These scripts make use of Gentoo's catalyst (https://wiki.gentoo.org/wiki/Catalyst)
 to build Gentoo stage3 releases of amd64 and i686 musl userland.  This repositoriy
 is forked from https://gitweb.gentoo.org/proj/releng.git/ but contains only the scripts
